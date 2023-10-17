@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimeraAppDio</string>
+    <string name="str_hello">Hola Mundo!</string>
+    <string name="str_lang">En Español</string>
+    <string name="str_what">Nosotros decimos</string>
+</resources>

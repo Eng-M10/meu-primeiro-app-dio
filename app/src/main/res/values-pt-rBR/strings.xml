@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="str_hello">Olá Mundo!</string>
+    <string name="str_lang">Em Português</string>
+    <string name="str_what">Nós dizemos</string>
+</resources>
